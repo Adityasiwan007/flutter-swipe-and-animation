@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-# Go throught the documentation of Flutter calendarro : https://pub.dartlang.org/packages/calendarro
+# Go throught the documentation of Flutter Swiper : https://pub.dartlang.org/packages/flutter_swiper
